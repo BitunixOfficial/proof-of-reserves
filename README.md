@@ -12,5 +12,5 @@
    <img src="images/download.png" alt="" style="text-align:left;width:500px"/>
 4. Run start file `sh start.sh` or double-click the `start.bat` file
 5. View results  
-   1）If your data are correct and the verification passed, then the result is "Consistent with the Merkle tree root hash. The verification succeeds". 
+   1）If your data are correct and the verification passed, then the result is "Consistent with the Merkle tree root hash. The verification succeeds".  
    2）If your data are wrong and the verification fails, the result is "Inconsistent with the Merkle tree root hash. The verification fails".
