@@ -1,171 +1,215 @@
 {
-  "path": [{
-    "type": 2,
-    "nonce": "6crhaexniyiypi7pb1zwvqexosqm8w74ld1o98aif9nkogduagpg5rbuy9t72dcq",
-    "height": 16,
-    "balances": {
-      "BTC": "0.00000000",
-      "ETH": "0.00000000",
-      "USDT": "9491.70157460"
-    },
-    "encryptUid": "73f3430ed7c74476b31148ffaff16b57",
-    "merkleLeaf": "432ecbccea8a3aaa5864ff58107a164af507026d1dfa51bbaf2687611aaab2bd",
-    "precisions": {
-      "BTC": 8,
-      "ETH": 8,
-      "USDT": 8
-    }
-  }, {
-    "type": 1,
-    "height": 15,
-    "balances": {
-      "BTC": "0.00000000",
-      "ETH": "0.00000000",
-      "USDT": "9492.00000000"
-    },
-    "merkleLeaf": "8c8421fea4e3ab49690781aa656b41b5d76d0f6e16a4078102deeb60de26af6a"
-  }, {
-    "type": 2,
-    "height": 14,
-    "balances": {
-      "BTC": "0.00000000",
-      "ETH": "0.00000000",
-      "USDT": "18481.10472381"
-    },
-    "merkleLeaf": "4425e012a6432e051d7b704e19cbd8849754f34a80ac78c454488607b08d4353"
-  }, {
-    "type": 2,
-    "height": 13,
-    "balances": {
-      "BTC": "0.00000000",
-      "ETH": "0.00000000",
-      "USDT": "10012580.36821645"
-    },
-    "merkleLeaf": "8fcd1e172d5b5acba5dd2d4a3a953cf7a22f7ed070b99358d73d3b92ad38c2c8"
-  }, {
-    "type": 1,
-    "height": 12,
-    "balances": {
-      "BTC": "0.00000000",
-      "ETH": "0.00000000",
-      "USDT": "103798.14787300"
-    },
-    "merkleLeaf": "56bd008b0960c2e38850d03fc5d3c042a29ee96fc25e880282968c6c56874b41"
-  }, {
-    "type": 2,
-    "height": 11,
-    "balances": {
-      "BTC": "0.00000000",
-      "ETH": "0.00000000",
-      "USDT": "2023320.43165580"
-    },
-    "merkleLeaf": "c8d3d58f90cdf69c037f9a80524054b3f4bb3c7fa4ac3d8afd3add54d6eba9ea"
-  }, {
-    "type": 2,
-    "height": 10,
-    "balances": {
-      "BTC": "0.00000000",
-      "ETH": "0.00000000",
-      "USDT": "2030533.54983944"
-    },
-    "merkleLeaf": "841d7b509bfce14be9d700881aaff6300f8e73faaca8cbb71506d484a8580677"
-  }, {
-    "type": 1,
-    "height": 9,
-    "balances": {
-      "BTC": "0.00000000",
-      "ETH": "0.00000000",
-      "USDT": "1535770.50805171"
-    },
-    "merkleLeaf": "a0fdcd59ca91b332eed07de3cb398f4d44a3b0188c5a80f4c73ffa06744f02c1"
-  }, {
-    "type": 1,
-    "height": 8,
-    "balances": {
-      "BTC": "100.00000000",
-      "ETH": "1000.00000000",
-      "USDT": "103178186.50559867"
-    },
-    "merkleLeaf": "2de2464ec8febc18c840e19c76e89c3e426332120631faf5f63c74146c41135c"
-  }, {
-    "type": 1,
-    "height": 7,
-    "balances": {
-      "BTC": "1250.00000000",
-      "ETH": "0.00000000",
-      "USDT": "5430613.54991950"
-    },
-    "merkleLeaf": "2fe1a720a30215764989b7e416352ef658efdde267bcc9bff890abf570bd36fb"
-  }, {
-    "type": 1,
-    "height": 6,
-    "balances": {
-      "BTC": "0.00000000",
-      "ETH": "0.00000000",
-      "USDT": "13326437.39907579"
-    },
-    "merkleLeaf": "cefc115a4f7483c34968376d7dee4e1fae91cf8231c9c5c66b5ef5b6821cd918"
-  }, {
-    "type": 1,
-    "height": 5,
-    "balances": {
-      "BTC": "4.95024576",
-      "ETH": "2.20159768",
-      "USDT": "8110002001915992480.87812385"
-    },
-    "merkleLeaf": "cd55e359f2c6ee640f42a7be6960921eba7cb40f4ef58242737b5c7c9951603c"
-  }, {
-    "type": 1,
-    "height": 4,
-    "balances": {
-      "BTC": "21210003398.77548483",
-      "ETH": "109922.61057589",
-      "USDT": "130013623664098928.28317578"
-    },
-    "merkleLeaf": "bee3102b34454a7d77aa0b4ec1182a488c4fd4ffa8cf8a2d56a33982eb775369"
-  }, {
-    "type": 2,
-    "height": 3,
-    "balances": {
-      "BTC": "558.12317518",
-      "ETH": "51250.00000000",
-      "USDT": "1010021858781228.22303005"
-    },
-    "merkleLeaf": "1fee4cb00725f8e33c7ab4783314cacd607f646ff85f56bc95269883467c84a4"
-  }, {
-    "type": 2,
-    "height": 2,
-    "balances": {
-      "BTC": "0.00000000",
-      "ETH": "0.00000000",
-      "USDT": "0.00000000"
-    },
-    "merkleLeaf": "df6933ca14d8ff9dde605122fec9ed8a3923240f24f13cd4ad425704e947ddc2"
-  }, {
-    "type": 3,
-    "height": 1,
-    "balances": {
-      "BTC": "21210005311.84890577",
-      "ETH": "162174.81217357",
-      "USDT": "8241025647576560630.53085845"
-    },
-    "merkleLeaf": "179d1c14302c19f740882f9b764134daade5ad06f4bba4c3fa030190ef2f9516"
-  }],
   "self": {
-    "type": 1,
-    "nonce": "i5mndxkkorwbncmyjub8q5ooqk9n1olveukimob3xdw83eqx8jlg3940td9hrfra",
-    "height": 16,
+    "encryptUid": "801b08d2cbe049b4b86d9e929ed69984",
+    "merkleLeaf": "c97bae06f62c57132410d04803dcb645886e04a56d254db9237d6e1f61d731e9",
+    "nonce": "dolvvb7jyf20s2wkzllc23oad3ue2dr5tvb4u7w0scywjwacurszooact3ilw2i0",
     "balances": {
       "BTC": "0.00000000",
       "ETH": "0.00000000",
-      "USDT": "9287.88000000"
+      "USDT": "100000000.000000"
     },
-    "encryptUid": "0bef3a0112ab4e53ac2e887e43172334",
-    "merkleLeaf": "088c472860eeb18f1b4435149faa62e11608cf4d20ac27dc6ceabbff9605c3e1",
+    "height": 15,
+    "type": 2,
     "precisions": {
       "BTC": 8,
       "ETH": 8,
-      "USDT": 8
+      "USDT": 6
     }
-  }
+  },
+  "path": [{
+    "encryptUid": "9b98669cff2b412ea2b0c8c4d7f3d6e2",
+    "merkleLeaf": "93f5ecab41083b429d31123962ae4f44a369f1f8b7e4a301e1a62b7da7fd9e0a",
+    "nonce": "8kupmimcrtmi57zcjee815h4mp46knjapl482h32dz41all5igmjjlrldo94wyfv",
+    "balances": {
+      "BTC": "0.00000000",
+      "ETH": "0.00000000",
+      "USDT": "9999.990000"
+    },
+    "height": 15,
+    "type": 1,
+    "precisions": {
+      "BTC": 8,
+      "ETH": 8,
+      "USDT": 6
+    }
+  },
+    {
+      "encryptUid": null,
+      "merkleLeaf": "a856b52c0f043c0c61e4bafb8d39f7aef9e032c29918060b75754cb79989b559",
+      "nonce": null,
+      "balances": {
+        "BTC": "0.00000000",
+        "ETH": "0.00000000",
+        "USDT": "0.000000"
+      },
+      "height": 14,
+      "type": 2,
+      "precisions": {}
+    },
+    {
+      "encryptUid": null,
+      "merkleLeaf": "e4763b9591600c16458d0f731282353e9da113d02f7059c2e76ab891deb43126",
+      "nonce": null,
+      "balances": {
+        "BTC": "0.00000000",
+        "ETH": "0.00000000",
+        "USDT": "39999.960000"
+      },
+      "height": 13,
+      "type": 2,
+      "precisions": {}
+    },
+    {
+      "encryptUid": null,
+      "merkleLeaf": "1f27fa1712a8cfe439f910fd6b39f85a3ff7d6fc4ed8fc78f2777bd23bd22047",
+      "nonce": null,
+      "balances": {
+        "BTC": "0.00000000",
+        "ETH": "0.00000000",
+        "USDT": "19999.980000"
+      },
+      "height": 12,
+      "type": 2,
+      "precisions": {}
+    },
+    {
+      "encryptUid": null,
+      "merkleLeaf": "b915a613897b9505eee05c268f29a5ff85a47aa25539f9c496507908695fd525",
+      "nonce": null,
+      "balances": {
+        "BTC": "0.00000000",
+        "ETH": "0.00000000",
+        "USDT": "59999.940000"
+      },
+      "height": 11,
+      "type": 1,
+      "precisions": {}
+    },
+    {
+      "encryptUid": null,
+      "merkleLeaf": "913ce89c1af4cde1b5ac882d11757673032f2fc6e2e4aeb947b7245a14e6af8b",
+      "nonce": null,
+      "balances": {
+        "BTC": "0.00000000",
+        "ETH": "0.00000000",
+        "USDT": "186888.575824"
+      },
+      "height": 10,
+      "type": 1,
+      "precisions": {}
+    },
+    {
+      "encryptUid": null,
+      "merkleLeaf": "18acb807eec3532ae8b6e5f89c97ef3be685a26658dea9c8222d7d23c678a723",
+      "nonce": null,
+      "balances": {
+        "BTC": "0.00000000",
+        "ETH": "0.00000000",
+        "USDT": "1615951.684025"
+      },
+      "height": 9,
+      "type": 2,
+      "precisions": {}
+    },
+    {
+      "encryptUid": null,
+      "merkleLeaf": "eeb1255b761ef39ba1634ec4cd7e9c0214cadd6287754eabf544d1fd62e4cbba",
+      "nonce": null,
+      "balances": {
+        "BTC": "0.00000000",
+        "ETH": "0.00000000",
+        "USDT": "1443329.084174"
+      },
+      "height": 8,
+      "type": 1,
+      "precisions": {}
+    },
+    {
+      "encryptUid": null,
+      "merkleLeaf": "870bff7f4325b80bf687900f2cbebf5a150504be839caa739b8d1f4a98c5fc3c",
+      "nonce": null,
+      "balances": {
+        "BTC": "0.00000000",
+        "ETH": "0.00000000",
+        "USDT": "15525849.639539"
+      },
+      "height": 7,
+      "type": 2,
+      "precisions": {}
+    },
+    {
+      "encryptUid": null,
+      "merkleLeaf": "5fefff8290a34f003c9fbaf7341b21b5a4e0a5ac1bc2d27f433d35799440c13e",
+      "nonce": null,
+      "balances": {
+        "BTC": "0.00000000",
+        "ETH": "0.00000000",
+        "USDT": "5440982.509969"
+      },
+      "height": 6,
+      "type": 1,
+      "precisions": {}
+    },
+    {
+      "encryptUid": null,
+      "merkleLeaf": "316f5bcfae50992b738788d44c4ea8b60c1a936db8b684b549d83b8672f05671",
+      "nonce": null,
+      "balances": {
+        "BTC": "0.00000000",
+        "ETH": "0.00000000",
+        "USDT": "13468223.075856"
+      },
+      "height": 5,
+      "type": 1,
+      "precisions": {}
+    },
+    {
+      "encryptUid": null,
+      "merkleLeaf": "ee2a6c6547e453bceab3f16f386a7ecd9aa81f1adef8e543a7c6b1ce7d4e9e59",
+      "nonce": null,
+      "balances": {
+        "BTC": "0.00000000",
+        "ETH": "0.00000000",
+        "USDT": "8110002001916020733.961601"
+      },
+      "height": 4,
+      "type": 1,
+      "precisions": {}
+    },
+    {
+      "encryptUid": null,
+      "merkleLeaf": "54a869bc1cd0f1da3e6858968c8cee818df071c3eb8ea8aa8c3dc9c299e4f6d6",
+      "nonce": null,
+      "balances": {
+        "BTC": "3.99806603",
+        "ETH": "0.00000000",
+        "USDT": "130012622433779586.506185"
+      },
+      "height": 3,
+      "type": 1,
+      "precisions": {}
+    },
+    {
+      "encryptUid": null,
+      "merkleLeaf": "1f8c9a0e0a96a48b1b7a04dc3c7f7d4b7ef741ff8fa464964e254edb308272b6",
+      "nonce": null,
+      "balances": {
+        "BTC": "137.00000000",
+        "ETH": "200.00000000",
+        "USDT": "1010021860127852.232294"
+      },
+      "height": 2,
+      "type": 2,
+      "precisions": {}
+    },
+    {
+      "encryptUid": null,
+      "merkleLeaf": "5ae85e217d54c6609bba2378a56476f1962f0b9e50912609eb78a56ed465e8a0",
+      "nonce": null,
+      "balances": null,
+      "height": 1,
+      "type": 3,
+      "precisions": {}
+    }
+  ]
 }
