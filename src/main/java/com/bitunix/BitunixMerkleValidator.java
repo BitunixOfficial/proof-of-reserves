@@ -17,7 +17,7 @@ import java.nio.file.Path;
  */
 public class BitunixMerkleValidator {
 
-    private static final String MERKLE_TREE_PATH_FILE_NAME = "merkel_tree_path.json";
+    private static final String MERKLE_TREE_PATH_FILE_NAME = "merkle_tree_bitunix.json";
 
     public static void main(String[] args) {
         System.out.println("validation start.....");
