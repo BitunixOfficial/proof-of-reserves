@@ -8,7 +8,7 @@ public class MerkelTreeConstants {
     /**
      * 逗号
      */
-    public static final String COMMA = ",";
+    public static final String COMMA = ", ";
 
     /**
      * 左节点
