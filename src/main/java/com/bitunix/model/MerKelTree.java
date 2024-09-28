@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * 默克尔树
+ * 默克尔树  update
  */
 public class MerKelTree {
 

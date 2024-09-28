@@ -29,7 +29,7 @@ public class MerkleTreePath {
     /**
      * validate
      *
-     * @return {@link boolean }
+     * @return {@link boolean  }
      */
     public boolean validate() {
         TreeNode newRoot = new MerKelTree().buildMerkelTreeRoot(path, self, self.getPrecisions());

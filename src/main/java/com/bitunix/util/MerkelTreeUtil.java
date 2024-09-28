@@ -8,12 +8,12 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
 /**
- * MerkelTreeUtils
+ * MerkelTreeUtils  update
  */
 public class MerkelTreeUtil {
 
     /**
-     * 生成叶子节点hash
+     * 生成   叶子节点hash
      *
      * @param treeNode
      */
