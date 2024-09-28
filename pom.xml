@@ -30,7 +30,7 @@
             <version>3.2.2</version>
         </dependency>
 
-        <!-- 引用fastjson -->
+        <!-- 引用fastjson  -->
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>

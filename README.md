@@ -1,7 +1,7 @@
 # Proof of Reserves Licensed to Bitunix Limited
 
 ## Verification Steps
-1. Take the executable verifier that you need to download on the Bitunix platform for your operating system and architecture.
+1. Take the executable  verifier that you need to download on the Bitunix platform for your operating system and architecture.
 - proof-of-reserves-linux-amd64-v1.0.0.zip
 - proof-of-reserves-linux-arm64-v1.0.0.zip
 - proof-of-reserves-macos-v1.0.0.zip
